@@ -1,0 +1,10 @@
+.idea/
+Sort/src/main/main.iml
+Sort/src/test/test.iml
+facade/designPatters.iml
+facade/target/classes/pl/sda/builder/Main.class         
+facade/target/classes/pl/sda/builder/Person.class         
+facade/target/classes/pl/sda/builder/PersonAddress.class          
+facade/target/classes/pl/sda/builder/PersonBuilder.class      
+facade/target/classes/pl/sda/facade/Main.class
+facade/target/classes/pl/sda/facade/SortFacade.class
