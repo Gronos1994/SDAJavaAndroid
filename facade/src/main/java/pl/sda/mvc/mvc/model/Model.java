@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by RENT on 2017-02-25.
  */
-public class Model {
+public class Model extends ModelFacade {
     public static List<Integer> values = new ArrayList<>();
 
     public static List<Integer> getValues() {
